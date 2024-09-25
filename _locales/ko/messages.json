@@ -1,0 +1,26 @@
+{
+ "extName": {
+  "message": "나중에 읽을래",
+  "description": "확장 프로그램의 이름"
+ },
+ "extDescription": {
+  "message": "개발 아티클과 좋은 글을 나중에 읽기 위해 저장하고 관리하는 확장 프로그램",
+  "description": "확장 프로그램의 설명"
+ },
+ "addToReadLater": {
+  "message": "나중에 읽기에 추가",
+  "description": "페이지를 나중에 읽기 목록에 추가하는 버튼 텍스트"
+ },
+ "readLaterList": {
+  "message": "나중에 읽을 목록",
+  "description": "나중에 읽을 항목 목록의 제목"
+ },
+ "completedReads": {
+  "message": "읽기 완료한 글",
+  "description": "읽기 완료한 글 목록의 제목"
+ },
+ "favoriteReads": {
+  "message": "다시 읽고 싶은 글",
+  "description": "다시 읽고 싶은 글 목록의 제목"
+ }
+}
